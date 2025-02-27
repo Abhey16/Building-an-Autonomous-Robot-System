@@ -3,6 +3,9 @@
 ## Project Overview
 This project involves developing an autonomous robotic system capable of completing the **Grand Challenge** outlined in the ENPM 701: Autonomous Robotics course. The robot must autonomously identify and collect color-coded blocks and transport them to a designated construction area while following specific constraints.
 
+https://github.com/user-attachments/assets/7e0fdc0f-b46f-4d42-80b6-629b82c829e4
+
+
 ## Grand Challenge Requirements
 ### The robot must autonomously:
 1. Identify and collect one block of each color (red, green, blue) for transport, one at a time.
