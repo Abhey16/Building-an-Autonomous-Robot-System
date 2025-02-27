@@ -23,15 +23,15 @@ This project involves developing an autonomous robotic system capable of complet
 
 ## Installation & Setup
 1. Clone this repository in your Raspberry Pi system:
-   ```sh
+   ```
    git clone https://github.com/your-username/Building-an-Autonomous-Robot-System.git
    cd Building-an-Autonomous-Robot-System
-  ```
+   ```
 2. Run the grand_challenge script
   ```
   python3 grand_challenge.py
   ```
----
+
 ## Grand Challenge Video
 
 [![IMAGE ALT TEXT HERE](img.jpg)](https://www.youtube.com/watch?v=oj9UhtT2hsk&t=2s)
