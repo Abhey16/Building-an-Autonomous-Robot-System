@@ -38,3 +38,8 @@ https://github.com/user-attachments/assets/7e0fdc0f-b46f-4d42-80b6-629b82c829e4
 ## Grand Challenge Video
 
 [![IMAGE ALT TEXT HERE](img.jpg)](https://www.youtube.com/watch?v=oj9UhtT2hsk&t=2s)
+
+## Robot Trajectory
+
+![WhatsApp Image 2024-05-15 at 19 40 55_e873d508](https://github.com/user-attachments/assets/96703b96-6792-465b-b758-97030886a782)
+
